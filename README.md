@@ -1,5 +1,5 @@
 # Simple QR (SQR)
-![Download SQR.apk](https://github.com/gerardet46/SQR/releases/download/1.0.0/SQR.apk) (see Releases)
+Links: [Download SQR.apk](https://github.com/gerardet46/SQR/releases/download/1.0.0/SQR.apk) (see Releases), [Donate me](https://paypal.me/gerardet46)
 
 All QR readers in Play Store have ads and many buttons which we never use. This reader has *no ads* and the flash button is the only one in the app. Simple. Just scan your code and obtain the result, no history and it doesn't store **any** kind of data.
 
