@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQR</string>
+    <string name="permission_error">Se tiene que habilitar la cámara</string>
+    <string name="cam_error">Error inicializando la cámara</string>
+    <string name="web_title">Página web</string>
+    <string name="web_go">Ves</string>
+    <string name="wifi_title">Red Wifi</string>
+    <string name="wifi_connect">Conectarse</string>
+    <string name="wifi_key">Clave</string>
+    <string name="wifi_enc">Seguridad</string>
+    <string name="nom">Nombre</string>
+    <string name="wifi_copied">Clave copiada</string>
+    <string name="card_contact">Contacto</string>
+    <string name="telf">Teléfono</string>
+    <string name="add">Agregar</string>
+    <string name="ev">Evento</string>
+    <string name="title">Título</string>
+    <string name="ev_loc">Lugar</string>
+    <string name="ev_starts">Empieza</string>
+    <string name="ev_end">Termina</string>
+    <string name="geo">Ubicación</string>
+    <string name="see">Ver</string>
+    <string name="sms_to">Para</string>
+    <string name="msm_msg">Mensaje</string>
+    <string name="msg_send">Envía</string>
+    <string name="call">Llamar</string>
+    <string name="txt">Texto</string>
+    <string name="txt_copy">Copia</string>
+    <string name="txt_copied">texto copiado</string>
+    <string name="cancel">Cancelar</string>
+</resources>

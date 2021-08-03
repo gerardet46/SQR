@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQR</string>
+    <string name="permission_error">S\'ha d\'habilitar la càmera</string>
+    <string name="cam_error">Error inicialitzant la càmera</string>
+    <string name="web_title">Pàgina web</string>
+    <string name="web_go">Vés</string>
+    <string name="wifi_title">Xarxa WiFi</string>
+    <string name="wifi_connect">Connecta\'t</string>
+    <string name="wifi_key">Clau</string>
+    <string name="wifi_enc">Seguretat</string>
+    <string name="nom">Nom</string>
+    <string name="wifi_copied">Clau copiada</string>
+    <string name="card_contact">Contacte</string>
+    <string name="telf">Telèfon</string>
+    <string name="add">Afegeix</string>
+    <string name="ev">Esdeveniment</string>
+    <string name="title">Títol</string>
+    <string name="ev_loc">Lloc</string>
+    <string name="ev_starts">Comença</string>
+    <string name="ev_end">Acaba</string>
+    <string name="geo">Ubicació</string>
+    <string name="see">Veure</string>
+    <string name="sms_to">Per a</string>
+    <string name="msm_msg">Missatge</string>
+    <string name="msg_send">Envia</string>
+    <string name="call">Truca</string>
+    <string name="txt">Text</string>
+    <string name="txt_copy">Copia</string>
+    <string name="txt_copied">Text copiat</string>
+    <string name="cancel">Cancel·lar</string>
+</resources>

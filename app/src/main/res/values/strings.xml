@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SQR</string>
+    <string name="permission_error">Camera must be enabled</string>
+    <string name="cam_error">Error initializing camera</string>
+    <string name="web_title">Web page</string>
+    <string name="web_go">Go</string>
+    <string name="wifi_title">WiFi Network</string>
+    <string name="wifi_connect">Connect</string>
+    <string name="wifi_key">Key</string>
+    <string name="wifi_enc">Security</string>
+    <string name="nom">Name</string>
+    <string name="wifi_copied">Key copied</string>
+    <string name="card_contact">Contact</string>
+    <string name="telf">Phone</string>
+    <string name="add">Add</string>
+    <string name="ev">Event</string>
+    <string name="title">Title</string>
+    <string name="ev_loc">Place</string>
+    <string name="ev_starts">Starts</string>
+    <string name="ev_end">End</string>
+    <string name="geo">Location</string>
+    <string name="see">Open</string>
+    <string name="sms_to">To</string>
+    <string name="msm_msg">Message</string>
+    <string name="msg_send">Send</string>
+    <string name="call">Call</string>
+    <string name="txt">Text</string>
+    <string name="txt_copy">Copy</string>
+    <string name="txt_copied">Text copied</string>
+    <string name="cancel">Cancel</string>
+</resources>
